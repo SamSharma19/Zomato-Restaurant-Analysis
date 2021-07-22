@@ -29,9 +29,9 @@ and also available in the repository (as csv file).
   
 ## Outputs
 * Some of the Visualizations displayed in the project
-     ![projectim1](https://user-images.githubusercontent.com/62378826/126687333-039fef64-db8f-4af6-86e9-14485f98662c.jpg)
-     ![projectim2](https://user-images.githubusercontent.com/62378826/126687375-fa75352e-234b-4f8d-b694-779378e969f7.jpg)
-     ![projectim3](https://user-images.githubusercontent.com/62378826/126687398-f290fd58-927e-4d56-bf11-0e694a1a322d.jpg)
-     ![projectim4](https://user-images.githubusercontent.com/62378826/126687411-3a882be7-622f-4875-a1a2-3beb3554af5d.jpg)
-     ![projectim5](https://user-images.githubusercontent.com/62378826/126687422-d15d2b6b-be12-4a07-b144-25858e316315.jpg)
-     ![projectim6](https://user-images.githubusercontent.com/62378826/126687434-917830a6-024b-45a2-9bb0-bba0f0b11c73.jpg)
+     ![projectim1 (2)](https://user-images.githubusercontent.com/62378826/126688419-099d2225-05d6-49ba-955d-7a5e1b1397fd.jpg)
+     ![projectim2 (2)](https://user-images.githubusercontent.com/62378826/126688433-0d988c18-bdd9-4598-a490-4c2c7e848672.jpg)
+     ![projectim3 (2)](https://user-images.githubusercontent.com/62378826/126688439-9ee8da77-51ff-4898-898e-549e85a3493b.jpg)
+     ![projectim4 (2)](https://user-images.githubusercontent.com/62378826/126688451-8b22a3ee-a5bf-45eb-a795-7f0a17d69fe4.jpg)
+     ![projectim5 (2)](https://user-images.githubusercontent.com/62378826/126688460-80f5ec59-45b6-4b44-a691-915d88d835ca.jpg)
+     
