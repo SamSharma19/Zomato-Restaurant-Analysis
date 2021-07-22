@@ -31,7 +31,7 @@ and also available in the repository (as csv file).
 * Some of the Visualizations displayed in the project
 
      <img src="https://user-images.githubusercontent.com/62378826/126688419-099d2225-05d6-49ba-955d-7a5e1b1397fd.jpg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="800" height="400" />
-     <img src="https://user-images.githubusercontent.com/62378826/126688433-0d988c18-bdd9-4598-a490-4c2c7e848672.jpg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="800" height="400" />
+     <img src="https://user-images.githubusercontent.com/62378826/126688433-0d988c18-bdd9-4598-a490-4c2c7e848672.jpg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="800" height="600" />
      <img src="https://user-images.githubusercontent.com/62378826/126688439-9ee8da77-51ff-4898-898e-549e85a3493b.jpg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="800" height="400" />
      <img src="https://user-images.githubusercontent.com/62378826/126688451-8b22a3ee-a5bf-45eb-a795-7f0a17d69fe4.jpg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="800" height="400" />
      <img src="https://user-images.githubusercontent.com/62378826/126688460-80f5ec59-45b6-4b44-a691-915d88d835ca.jpg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="800" height="400" />
