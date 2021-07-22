@@ -20,8 +20,8 @@ The dataset used for this project is available on kaggle (https://www.kaggle.com
 and also available in the repository (as csv file).
   
 ## Usage direction
-    1. To observe the analysis done on various factors that affect the Restaurants with visualizations project.py
-    needs to be executed after installing the above mentioned libraries.
+    1. To observe the analysis done on various factors that affect the Restaurants with visualizations project.py needs to
+    be executed after installing the above mentioned libraries.
     2. To interact with the dashboard created using plotly plotlyplot.py needs to be executed.
    Note: Dataset must be either pasted in same folder or according directed in the code to run the two above programs.
 
