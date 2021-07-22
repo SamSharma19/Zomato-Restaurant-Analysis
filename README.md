@@ -29,3 +29,9 @@ and also available in the repository (as csv file).
   
 ## Outputs
 * Some of the Visualizations displayed in the project
+     ![projectim1](https://user-images.githubusercontent.com/62378826/126687333-039fef64-db8f-4af6-86e9-14485f98662c.jpg)
+     ![projectim2](https://user-images.githubusercontent.com/62378826/126687375-fa75352e-234b-4f8d-b694-779378e969f7.jpg)
+     ![projectim3](https://user-images.githubusercontent.com/62378826/126687398-f290fd58-927e-4d56-bf11-0e694a1a322d.jpg)
+     ![projectim4](https://user-images.githubusercontent.com/62378826/126687411-3a882be7-622f-4875-a1a2-3beb3554af5d.jpg)
+     ![projectim5](https://user-images.githubusercontent.com/62378826/126687422-d15d2b6b-be12-4a07-b144-25858e316315.jpg)
+     ![projectim6](https://user-images.githubusercontent.com/62378826/126687434-917830a6-024b-45a2-9bb0-bba0f0b11c73.jpg)
