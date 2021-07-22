@@ -1,0 +1,30 @@
+# Analysis of Restaurants in Chennai (Zomato based)
+
+This project is solely intended to analyze the various factors that affects the ratings,
+average price of food etc factors of different restaurants present in Chennai.
+Its also intented to gain an insight on how prices of food vary across different areas in Chennai, what are 
+the top rated restaurants in Chennai, which dish is preferred in which region of 
+Chennai , what are the most popular cuisines available in Chennai Restaurants 
+etc and made an easy to interact interface to study the effects of different factors on the Restaurants using Dash.
+
+
+## Softwares and libraries used
+This project is solely made using Python.
+ 
+ * Libraries used here are-
+   
+   Pandas, Numpy, Matplotlib, Seaborn, Sklearn (various libraries of it)
+   Dash and Plotly.
+
+The dataset used for this project is available on kaggle (https://www.kaggle.com/phiitm/chennai-zomato-restaurants-data)
+and also available in the repository (as csv file).
+  
+## Usage direction
+    1. To observe the analysis done on various factors that affect the Restaurants with visualizations project.py needs to be executed after installing the above mentioned libraries.
+    2. To interact with the dashboard created using plotly plotlyplot.py needs to be executed.
+   Note: Dataset must be either pasted in same folder or according directed in the code to run the two above programs.
+
+
+  
+## Outputs
+* Some of the Visualizations displayed in the project
