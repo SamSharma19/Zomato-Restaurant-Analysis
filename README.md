@@ -1,4 +1,4 @@
-# Analysis of restaurants in Chennai (Zomato based)
+# Analysis of Restaurants in Chennai (Zomato based)
 
 This project is solely intended to analyze the various factors that affects the ratings,
 average price of food etc factors of different restaurants present in Chennai.
